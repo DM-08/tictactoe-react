@@ -5,6 +5,7 @@
 !app.css
 !styles.css
 !index.js
+!app.js
 # dependencies
 /node_modules
 /.pnp
